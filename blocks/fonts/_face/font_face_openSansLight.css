@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Open Sans";
+    src: local('Open Sans');
+    src: url("font_face_openSansLight.ttf");
+}
+
+.font_face_openSansLight {
+    font-family: "Open Sans" !important;
+}
