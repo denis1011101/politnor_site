@@ -10,6 +10,6 @@ To do list:
 
 - [ ] move preloader to right block and rewrite to css
 
-- [ ] favicon
+- [ ] favicon https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 
 - [ ] button "to top"
